@@ -2,6 +2,11 @@
 <p>This simple implementation uses Typescript and OpenSkies API to illustrate the Observer Pattern (Software Design Principle).</p>
 
 
+### Dependencies:
+<p>ts-node. To install, run `npm i -g ts-node` </p>
+<p>typescript. To install, run `npm i -g typescript`</p>
+
+
 ### Initialize:
 <p>To initialize, run `yarn` from the command line to download all the relevant dependencies</p>
 
